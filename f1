@@ -1,6 +1,2 @@
-Hello
-It's hard to pay attention
-Hi Santosh
-echo "Pull code & execute the script"
-echo "Jenkins worked"
-Changed the file contex
+echo "Pull code and execute the Script"
+echo "jenkins worked"
