@@ -1,3 +1,4 @@
-echo "CI in Devops"
+echo "Continuous integration in Devops"
 pwd
 df -Th
+who
