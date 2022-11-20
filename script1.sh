@@ -1,2 +1,3 @@
-echo "Hello Devops"
-cal
+echo "CI in Devops"
+pwd
+df -Th
