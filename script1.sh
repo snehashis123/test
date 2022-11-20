@@ -1,2 +1,2 @@
-echo "Continuous integration ex Devops"
-date
+echo "Continuous integration none Devops"
+df -Th
