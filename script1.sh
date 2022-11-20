@@ -1,2 +1,2 @@
-echo "Continuous integration none Devops"
-df -Th
+echo "Continuous integration fog Devops"
+cal
