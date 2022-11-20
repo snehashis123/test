@@ -1,2 +1,2 @@
-echo "Continuous integration that Devops"
-who
+echo "Continuous integration ex Devops"
+date
