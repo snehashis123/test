@@ -1,2 +1,2 @@
-echo "Continuous integration in Devops"
-cal
+echo "Continuous integration that Devops"
+who
